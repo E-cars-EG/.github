@@ -72,18 +72,7 @@
 | 📱 `system_ecars-Mobile_App` | Mobile app for users/business |
 | 🛡️ `system_ecars-Security_Engine` | Security checks & anti-abuse |
 
----
-
-## 📊 Org Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E-cars-EG&show_icons=true&hide_title=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=E-cars-EG&theme=tokyonight" />
-</p>
-
+ 
 ---
 
 ## 🌍 Links
